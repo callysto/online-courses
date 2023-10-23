@@ -37,7 +37,7 @@ Press any of the buttons <img src="https://raw.githubusercontent.com/callysto/cu
 
 ## Data Science Course - Links to notebooks 
 
-### Module: What is Data Dcience?
+### Module: What is Data Science?
 
 <a href="http://tinyurl.com/y8c4kjv2" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> The Olympics: An introduction to manipulating data using Jupyter notebooks
 
